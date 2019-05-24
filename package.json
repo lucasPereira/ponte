@@ -1,0 +1,9 @@
+{
+	"name": "ponte",
+	"version": "0.1.0",
+	"scripts": {
+		"start-web-server": "echo 'Starting web server' && node web/server.js",
+		"start-log-server": "echo 'starting log server'",
+		"start-log-client": "echo 'starting log client'"
+	}
+}
